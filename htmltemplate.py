@@ -3,9 +3,9 @@ one = '''<!DOCTYPE html>
 	<head>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<meta name="author" content="Wesley Chase Alva Harmon">
+		<meta name="author" content="Your Name">
 		<link rel="stylesheet" type="text/css" href="post_format.css">
-		<title>Alva Quest | '''
+		<title>Your Website | '''
 			
 
 two = '''</title>
@@ -26,7 +26,7 @@ three = '''</header>
 
 four = '''				</main>
 			</div>
-			<footer id="footer"><p>Copyright W.C.A.Harmon 2023<br><a href="mailto:wcahbuffer@gmail.com">Contact Me</a></p></footer>
+			<footer id="footer"><p>Your Footer</p></footer>
 		</div>
 	</body>
 </html>'''
